@@ -1,3 +1,4 @@
 write
-i am a student
+aaa
+i am using vim edit this file
 inset
